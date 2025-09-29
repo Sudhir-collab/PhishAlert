@@ -36,25 +36,16 @@ print(f"Risk: {result['risk_score']}% - {result['status']}")
 📁 Project Structure:
 
 PhishAlert/
-├── main.py              # Main application
-
-├── detector.py          # Core detection engine
-
-├── url_analyzer.py      # URL analysis
-
-├── content_analyzer.py  # Content analysis
-
-├── ssl_analyzer.py      # SSL validation
-
-├── utils.py            # Utilities
-
-└── requirements.txt    # Dependencies
-
-└── README.md               # Overview
-
+├── main.py                   # Main application
+├── detector.py               # Core detection engine
+├── url_analyzer.py           # URL analysis
+├── content_analyzer.py       # Content analysis
+├── ssl_analyzer.py           # SSL validation
+├── utils.py                  # Utilities
+└── requirements.txt          # Dependencies
+└── README.md                 # Overview
 └── PROJECT_DOCUMENTATION.md  # Technical documentation
-
-└── LICENSE.md                 # MIT License
+└── LICENSE.md                # MIT License
 
 📊 Results:
 Example Output:
@@ -79,7 +70,7 @@ MIT License - see LICENSE.md
 
 <div align="center">
 ⭐ Star this repository if you find it helpful!
-Built with ❤️ by nk55aur
+Built with ❤️ by Sudhir-collab
 
 Protecting the digital world, one URL at a time 🛡️
 
