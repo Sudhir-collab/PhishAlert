@@ -21,7 +21,7 @@
 ### Installation
 ```bash
 git clone https://github.com/Sudhir-collab/PhishAlert
-cd PhishShield
+cd PhishAlert
 pip install -r requirements.txt
 python main.py
 
